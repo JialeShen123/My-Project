@@ -7,7 +7,7 @@ The model is used to estimate the daily average ET.
 
 
 
-![图表, 表格  AI 生成的内容可能不正确。](file:////Users/yanyi/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)
+
 The image above shows the attention map of the input values, darker means higher attention.
 Throughout our work, this part of the code function is evaluation, but for the consumer, this part is really the process of running the model. 
 
