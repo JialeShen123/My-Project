@@ -1,4 +1,4 @@
-## How to use the pre-trained model？
+## How to use the model？
 
 Using the transformer-based model for evaluation.
 The model is used to estimate the daily average ET.
